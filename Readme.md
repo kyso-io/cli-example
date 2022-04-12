@@ -5,7 +5,7 @@
 Git clone this repository:
 
 ```
-git clone https://github.com/KyleOS/useractivity.git
+git clone https://github.com/kyso-io/cli-example.git
 ```
 
 Download and install the [Anaconda Python distribution](https://www.anaconda.com/distribution/).
@@ -14,7 +14,6 @@ Then activate a conda virtual environment with
 ```
 conda env create -f environment.yml
 conda activate dev
-
 ```
 
 ### Usage
