@@ -1,0 +1,15 @@
+{
+    "main": "main.ipynb",
+    "author": "kyle@kyso.io",
+    "title": "Customer engagement and activity metrics",
+    "description": "By measuring the relationship between team size and various engagement metrics like views, posts, and other actions we can get a better idea of the types of accounts we should be focusing more time on - smaller teams or only on the big fish?",
+    "organization": "acme",
+    "team": "product",
+    "preview": "imagespreview.png",
+    "tags": [
+      "plotly",
+      "cohorts",
+      "customer-activity"
+    ],
+    "type": "jupyter"
+  }
