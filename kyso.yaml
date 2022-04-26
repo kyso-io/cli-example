@@ -1,0 +1,12 @@
+author: eoin@kyso.io
+description: "Measuring the relationship between team size and various engagement metrics like viewspostsand other actions. Should we be focusing more time on smaller accounts or only on the big fish?"
+main: main.ipynb
+organization: acme
+preview: preview.png
+tags: 
+  - b2b-chorts
+  - engagement
+  - churn
+team: product
+title: "Plotting Account Activity Levels"
+type: jupyter
